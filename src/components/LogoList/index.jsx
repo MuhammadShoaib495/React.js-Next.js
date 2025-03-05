@@ -9,7 +9,7 @@ export default function LogoList() {
       alt:'Partner'
     },
     {
-      src: '/images/roycehosting.png', 
+      src: '/images/Roycehosting.png', 
       alt:'Partner'
     },
     {
